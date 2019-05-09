@@ -1,8 +1,8 @@
-## Furry - 面向可爱的毛毛 (/ω＼) 的 git 学习实践项目 on GitHub （Copy From [Dress Project](https://raw.githubusercontent.com/komeiji-satori/Dress)）
+## Furry - 面向可爱的毛毛 (/ω＼) 的 git 学习实践项目 on GitHub （Copy From [Dress Project](https://github.com/komeiji-satori/Dress)）
 
 ### Furry - A Study and Practice project of git，for furries.
 
-[![Contributors](https://img.shields.io/github/contributors/komeiji-satori/Dress.svg)](https://github.com/furleywolf/furry/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/furleywolf/furry.svg)](https://github.com/furleywolf/furry/graphs/contributors)
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/furleywolf/furry.svg)
 [![License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 
