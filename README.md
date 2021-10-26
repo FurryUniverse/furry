@@ -35,3 +35,6 @@ This repository is licensed under a Creative Commons Attribution-NonCommercial-S
 ### Contributing
 请仔细阅读[CONTRIBUTING.md](https://github.com/furleywolf/furry/blob/master/CONTRIBUTING.md)  
 Please read [CONTRIBUTING.md](https://github.com/furleywolf/furry/blob/master/CONTRIBUTING.md) carefully.
+
+### 好耶，是毛毛
+### very GOOOOOOOD . It‘s’ furry！
